@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager.tests\\viewmodels\\mainwindowviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|solutionrelative:subscriptionmanager.tests\\viewmodels\\mainwindowviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager.tests\\services\\subscriptionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|solutionrelative:subscriptionmanager.tests\\services\\subscriptionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager.tests\\business\\subscriptionmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|solutionrelative:subscriptionmanager.tests\\business\\subscriptionmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager.tests\\business\\statisticsviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|solutionrelative:subscriptionmanager.tests\\business\\statisticsviewmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\mainwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\mainwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\mainwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\mainwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\views\\statisticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\views\\statisticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\views\\statisticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\views\\statisticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\views\\addeditsubscriptionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\views\\addeditsubscriptionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\views\\addeditsubscriptionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\views\\addeditsubscriptionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\subscriptionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\subscriptionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\monthlydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\monthlydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\categorydataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\categorydataitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\viewmodels\\addeditsubscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\viewmodels\\addeditsubscriptionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\services\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\services\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\services\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\services\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\services\\repositories\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\services\\repositories\\subscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\services\\repositories\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\services\\repositories\\isubscriptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\subscriptionmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\subscriptionmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager.tests\\subscriptionmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7645A8E-A798-4021-B991-195C7F9D78DC}|SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj|solutionrelative:subscriptionmanager.tests\\subscriptionmanager.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|c:\\users\\danbr\\onedrive\\desktop\\sm-case\\subscription_manager\\subscriptionmanager\\subscriptionmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1D9769-6DD9-4979-B539-BC13B798FE2B}|SubscriptionManager\\SubscriptionManager.csproj|solutionrelative:subscriptionmanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\AssemblyInfo.cs",
+              "RelativeToolTip": "SubscriptionManager\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:49:38.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow1.xaml",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\MainWindow1.xaml",
+              "RelativeDocumentMoniker": "SubscriptionManager\\MainWindow1.xaml",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\MainWindow1.xaml",
+              "RelativeToolTip": "SubscriptionManager\\MainWindow1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-14T13:40:02.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\MainWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\MainWindow1.xaml.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\MainWindow1.xaml.cs",
+              "RelativeToolTip": "SubscriptionManager\\MainWindow1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:40:17.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticsViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\Business\\StatisticsViewModelTests.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Tests\\Business\\StatisticsViewModelTests.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\Business\\StatisticsViewModelTests.cs",
+              "RelativeToolTip": "SubscriptionManager.Tests\\Business\\StatisticsViewModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:08:57.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriptionModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\Business\\SubscriptionModelTests.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Tests\\Business\\SubscriptionModelTests.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\Business\\SubscriptionModelTests.cs",
+              "RelativeToolTip": "SubscriptionManager.Tests\\Business\\SubscriptionModelTests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAIA2wHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:00:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\Services\\SubscriptionServiceTests.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Tests\\Services\\SubscriptionServiceTests.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\Services\\SubscriptionServiceTests.cs",
+              "RelativeToolTip": "SubscriptionManager.Tests\\Services\\SubscriptionServiceTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:00:01.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModelTests.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\ViewModels\\MainWindowViewModelTests.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager.Tests\\ViewModels\\MainWindowViewModelTests.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\ViewModels\\MainWindowViewModelTests.cs",
+              "RelativeToolTip": "SubscriptionManager.Tests\\ViewModels\\MainWindowViewModelTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:00:06.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\App.xaml",
+              "RelativeDocumentMoniker": "SubscriptionManager\\App.xaml",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\App.xaml",
+              "RelativeToolTip": "SubscriptionManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T15:49:38.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\StatisticsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Views\\StatisticsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\StatisticsWindow.xaml.cs",
+              "RelativeToolTip": "SubscriptionManager\\Views\\StatisticsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:33:46.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatisticsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\StatisticsWindow.xaml",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Views\\StatisticsWindow.xaml",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\StatisticsWindow.xaml",
+              "RelativeToolTip": "SubscriptionManager\\Views\\StatisticsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T17:31:04.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditSubscriptionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml",
+              "RelativeToolTip": "SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T15:49:08.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEditSubscriptionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml.cs",
+              "RelativeToolTip": "SubscriptionManager\\Views\\AddEditSubscriptionWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:49:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubscriptionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\SubscriptionHistory.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\SubscriptionHistory.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\SubscriptionHistory.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\SubscriptionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:19:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\StatisticsViewModel.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\StatisticsViewModel.cs",
+              "ViewState": "AgIAAJ8AAAAALaGXWUYgwKoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T17:29:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:48:06.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MonthlyData.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\MonthlyData.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\MonthlyData.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\MonthlyData.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\MonthlyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T15:13:09.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:48:19.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryDataItem.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\CategoryDataItem.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\CategoryDataItem.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\CategoryDataItem.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\CategoryDataItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:51:10.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddEditSubscriptionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\AddEditSubscriptionViewModel.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\ViewModels\\AddEditSubscriptionViewModel.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\ViewModels\\AddEditSubscriptionViewModel.cs",
+              "RelativeToolTip": "SubscriptionManager\\ViewModels\\AddEditSubscriptionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:22:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Services\\SubscriptionService.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\SubscriptionService.cs",
+              "RelativeToolTip": "SubscriptionManager\\Services\\SubscriptionService.cs",
+              "ViewState": "AgIAADcAAAAAepfY/34jwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:58:06.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\ISubscriptionService.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Services\\ISubscriptionService.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\ISubscriptionService.cs",
+              "RelativeToolTip": "SubscriptionManager\\Services\\ISubscriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:57:57.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\Repositories\\SubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Services\\Repositories\\SubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\Repositories\\SubscriptionRepository.cs",
+              "RelativeToolTip": "SubscriptionManager\\Services\\Repositories\\SubscriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:57:42.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISubscriptionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\Repositories\\ISubscriptionRepository.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Services\\Repositories\\ISubscriptionRepository.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Services\\Repositories\\ISubscriptionRepository.cs",
+              "RelativeToolTip": "SubscriptionManager\\Services\\Repositories\\ISubscriptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:57:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Models\\Subscription.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Models\\Subscription.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Models\\Subscription.cs",
+              "RelativeToolTip": "SubscriptionManager\\Models\\Subscription.cs",
+              "ViewState": "AgIAAKMAAAAAgCcAgUbavxsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:45:27.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SubscriptionManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:45:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SubscriptionManager.csproj",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\SubscriptionManager.csproj",
+              "RelativeDocumentMoniker": "SubscriptionManager\\SubscriptionManager.csproj",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\SubscriptionManager.csproj",
+              "RelativeToolTip": "SubscriptionManager\\SubscriptionManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T14:22:28.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubscriptionManager.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj",
+              "RelativeDocumentMoniker": "SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj",
+              "RelativeToolTip": "SubscriptionManager.Tests\\SubscriptionManager.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T15:39:37.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SubscriptionManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\danbr\\OneDrive\\Desktop\\SM-CASE\\Subscription_Manager\\SubscriptionManager\\SubscriptionManager\\App.xaml.cs",
+              "RelativeToolTip": "SubscriptionManager\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:49:46.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

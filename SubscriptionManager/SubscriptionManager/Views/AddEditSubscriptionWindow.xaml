@@ -1,0 +1,109 @@
+﻿<Window x:Class="SubscriptionManager.Views.AddEditSubscriptionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Добавить/Редактировать подписку" Height="580" Width="450"
+        WindowStartupLocation="CenterOwner"
+        Background="#FFF5F7FA"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Margin" Value="0,0,0,5"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FFE1E5E9"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="8"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+        </Style>
+
+        <Style TargetType="ComboBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FFE1E5E9"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="6"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+            <Setter Property="Height" Value="30"/>
+        </Style>
+
+        <Style TargetType="DatePicker">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FFE1E5E9"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="6"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+            <Setter Property="Height" Value="30"/>
+        </Style>
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Border Background="White" CornerRadius="8" Margin="20" Padding="25"
+                BorderBrush="#FFE1E5E9" BorderThickness="1">
+            <StackPanel>
+                <TextBlock Text="{Binding RelativeSource={RelativeSource AncestorType=Window}, Path=Title}" 
+                          FontSize="18" FontWeight="Bold" Foreground="#FF2C3E50"
+                          HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                <TextBlock Text="Название сервиса *"/>
+                <TextBox Text="{Binding ServiceName, UpdateSourceTrigger=PropertyChanged}" Height="35"/>
+
+                <TextBlock Text="Категория"/>
+                <ComboBox SelectedValue="{Binding Category}" SelectedValuePath="Content">
+                    <ComboBoxItem Content="Стриминг"/>
+                    <ComboBoxItem Content="Облачные сервисы"/>
+                    <ComboBoxItem Content="ПО"/>
+                    <ComboBoxItem Content="Образование"/>
+                    <ComboBoxItem Content="Другое"/>
+                </ComboBox>
+
+                <TextBlock Text="Стоимость *"/>
+                <TextBox Text="{Binding Cost, UpdateSourceTrigger=PropertyChanged}" Height="35"/>
+                <TextBlock Text="Введите положительное число" FontSize="10" Foreground="Gray" Margin="0,-5,0,10"/>
+
+                <TextBlock Text="Период оплаты"/>
+                <ComboBox SelectedValue="{Binding PaymentPeriod}" SelectedValuePath="Content">
+                    <ComboBoxItem Content="Ежемесячно"/>
+                    <ComboBoxItem Content="Ежеквартально"/>
+                    <ComboBoxItem Content="Ежегодно"/>
+                </ComboBox>
+
+                <Border Background="#FFF8F9FA" CornerRadius="4" 
+                        Margin="0,10,0,15" Padding="12">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="📅 Годовая стоимость:" 
+                                  FontWeight="Bold" VerticalAlignment="Center"/>
+                        <TextBlock Grid.Column="1" Text="{Binding YearlyCost, StringFormat={}{0} руб.}" 
+                                  FontWeight="Bold" Foreground="#FF27AE60"
+                                  HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="13"/>
+                    </Grid>
+                </Border>
+                <TextBlock Text="Дата следующего списания *"/>
+                <DatePicker SelectedDate="{Binding NextBillingDate}" 
+                           DisplayDateStart="{x:Static sys:DateTime.Today}"/>
+
+                <TextBlock Text="URL для управления"/>
+                <TextBox Text="{Binding ManagementUrl}" Height="35"/>
+
+                <TextBlock Text="Примечания"/>
+                <TextBox Text="{Binding Notes}" AcceptsReturn="True" Height="80" Margin="0,0,0,20"/>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+                    <Button Content="💾 Сохранить" Click="Save_Click" 
+                           Width="120" Height="35" Margin="0,0,10,0"
+                           Background="#FF3498DB" Foreground="White" FontWeight="Bold"/>
+                    <Button Content="❌ Отмена" Click="Cancel_Click" 
+                           Width="120" Height="35"
+                           Background="#FFE74C3C" Foreground="White" FontWeight="Bold"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </ScrollViewer>
+</Window>
